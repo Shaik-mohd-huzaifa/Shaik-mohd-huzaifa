@@ -3,8 +3,8 @@
 # <span>I Dare Say I Think</span>
 
 # <span>Computer Jargons</span>
-<img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/c(1).svg"><!--
---><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/c.svg"><!--
+<img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/clang.svg"><!--
+--><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/cpp.svg"><!--
 --><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/csharp.svg"><!--
 -->
 <img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/html.svg"><!--
