@@ -1,6 +1,6 @@
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/38fb42bbb4510b3ff92d75a5bff4793ffc7b6c08/Huzaifa%20Github%20Profile%20Gif.gif)
 
-# <span>About me</span>
+# <span>I Dare Say I Think</span>
 
 # <span>Languages</span>
 
