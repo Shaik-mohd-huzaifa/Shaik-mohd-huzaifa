@@ -2,6 +2,8 @@
 
 # <span>I Dare Say I Think</span>
 
+Gonna be a _Full Stack Developer_ in a Few Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. 
+
 # <span>Computer Jargons</span>
 <img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/clang.svg"><!--
 --><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/cpp.svg"><!--
