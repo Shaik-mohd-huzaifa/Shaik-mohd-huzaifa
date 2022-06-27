@@ -1,3 +1,5 @@
+# Hi ! I'm Shaik😊
+
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/38fb42bbb4510b3ff92d75a5bff4793ffc7b6c08/Huzaifa%20Github%20Profile%20Gif.gif)
 
 
@@ -90,15 +92,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
-
-
-😃Well I am Upcoming Full stack _Web_ and _cross platform application_ <code>Developer</code>
-<ins>Increasing my knowledge from every bit on code</ins>
-<code>HTML</code> <code>Css</code> <code>Javascript</code> <code>Flutter</code> <code>React Native</code> <code>Node</code>
-
-
-
+# Social
+<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/slack-48x48-1597558.png" alt="stalk"></a>
+<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/tumblr-48x48-1597567.png" alt="stalk"></a>
+<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/instagram-48x48-1597574.png" alt="stalk"></a>
+<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/twitter-48x48-1597565.png" alt="stalk"></a>
 
 
 <!---
