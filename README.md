@@ -6,15 +6,33 @@
 <span style="font-family: montserrat">Gonna be a _Full Stack Developer_ in a Few Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. Finally part-time branding identity designer.</span> 
 
 # <span>Computer Jargons</span>
-<img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/clang.svg"><!--
---><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/a86da7cf0bbbc83e7bb901020fb0fe0cdfeba428/cpp.svg"><!--
---><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/csharp.svg"><!--
--->
-<img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/html.svg"><!--
---><img style="width: 60px; height: 60px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/css.svg"><!--
---><img style="width: 55px; height: 55px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/dc77955c00395d12525f814eba66167cf6f259a8/javascript.svg">
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# <span>What to Learn</span>
+
+# <span>Want to Learn</span>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
+
+
+
 
 😃Well I am Upcoming Full stack _Web_ and _cross platform application_ <code>Developer</code>
 <ins>Increasing my knowledge from every bit on code</ins>
