@@ -93,10 +93,10 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # Social
-<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/slack-48x48-1597558.png" alt="stalk"></a>
-<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/tumblr-48x48-1597567.png" alt="stalk"></a>
-<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/instagram-48x48-1597574.png" alt="stalk"></a>
-<a href=""><img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/twitter-48x48-1597565.png" alt="stalk"></a>
+<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/slack-48x48-1597558.png" alt="stalk"></a>
+<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/tumblr-48x48-1597567.png" alt="stalk"></a>
+<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/instagram-48x48-1597574.png" alt="stalk"></a>
+<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/twitter-48x48-1597565.png" alt="stalk"></a>
 
 
 <!---
