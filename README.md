@@ -7,11 +7,16 @@
 
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/9c6d70d7821c33dd51977cefeac92f2525c7be56/On%20Hasnode.png)
 
+<!-- HASHNODE BLOGS-->
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b1b118932b06bd72a406cadaa377110b8edab35f/On%20Medium.png">
+
+<!-- MEDIUM BLOGS-->
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b1b118932b06bd72a406cadaa377110b8edab35f/On%20DEV%20community.png">
+
+<!-- DEV COMMUNITY BLOGS-->
 <img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ebc35e56732553d9dc1e4adb6f22f8642f17b87b/Modified%20Github%20pro.png">
 
 <img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/22dc1c8cfdcc614405bca6b1f3d49f4d58023bd9/Untitled%20design.png">
-
-
 
 
 
