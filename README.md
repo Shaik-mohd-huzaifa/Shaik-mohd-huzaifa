@@ -29,8 +29,12 @@ Basically, javascript says the compiler which operator should be compiled first 
 <a href="https://www.linkedin.com/in/shaik-mohd-huzaifa-7b0804208/"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed.png"></a>
 <a href="https://codepen.io/Shaikhuzaifa"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111501.png"></a>
 <a href="https://stackoverflow.com/users/17464962/shaik-mohammed-huzaifa"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111628.png">
-  
 
+<p width="100%">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-mohd-huzaifa&show_icons=true&locale=en&layout=compact" alt="Shaik-mohd-huzaifa" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shaik-mohd-huzaifa&show_icons=true&locale=en" alt="Shaik-mohd-huzaifa" />
+  </p>
+  
 <!---
 Shaik-mohd-huzaifa/Shaik-mohd-huzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
