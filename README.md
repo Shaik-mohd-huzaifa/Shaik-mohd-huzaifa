@@ -22,13 +22,13 @@ Basically, javascript says the compiler which operator should be compiled first 
 
 
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/Connect%20with%20me.png)
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/dev-rainbow.png">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b9aa344600fe7d454994cd566c0403eaaa0afa97/social-media-twitter-logo-blue-isolated-free-vector.jpg">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/medium-logo-93CDCF6451-seeklogo.com.png">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed%20(1).png">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed.png">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111501.png">
-<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111628.png">
+<a href="https://dev.to/shaikmohdhuzaifa"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/dev-rainbow.png"></a>
+<a href="https://twitter.com/ShaikMohdHuzaif"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b9aa344600fe7d454994cd566c0403eaaa0afa97/social-media-twitter-logo-blue-isolated-free-vector.jpg"></a>
+<a href="https://medium.com/@shaikmohdhuz"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/medium-logo-93CDCF6451-seeklogo.com.png"></a>
+<a href="https://hashnode.com/@ShaikMohdHuzaifa" alt="Hashnode Profile link"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed%20(1).png" alt="Hashnode Logo"></a>
+<a href="https://www.linkedin.com/in/shaik-mohd-huzaifa-7b0804208/"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed.png"></a>
+<a href="https://codepen.io/Shaikhuzaifa"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111501.png"></a>
+<a href="https://stackoverflow.com/users/17464962/shaik-mohammed-huzaifa"><img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111628.png">
   
 
 <!---
