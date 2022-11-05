@@ -21,13 +21,15 @@ Basically, javascript says the compiler which operator should be compiled first 
 [![@shaikmohdhuzaifa's Holopin board](https://holopin.me/shaikmohdhuzaifa)](https://holopin.io/@shaikmohdhuzaifa)
 
 
-
-# Social
-<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/slack-48x48-1597558.png" alt="stalk"></a>
-<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/tumblr-48x48-1597567.png" alt="stalk"></a>
-<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/instagram-48x48-1597574.png" alt="stalk"></a>
-<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/twitter-48x48-1597565.png" alt="stalk"></a>
-
+![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/Connect%20with%20me.png)
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/dev-rainbow.png">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b9aa344600fe7d454994cd566c0403eaaa0afa97/social-media-twitter-logo-blue-isolated-free-vector.jpg">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/medium-logo-93CDCF6451-seeklogo.com.png">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed%20(1).png">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/unnamed.png">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111501.png">
+<img width="50px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b8f0256216addd8e05bcc2f376a74cdad18aafe1/2111628.png">
+  
 
 <!---
 Shaik-mohd-huzaifa/Shaik-mohd-huzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
