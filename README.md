@@ -1,7 +1,8 @@
-# Hi ! I'm Shaik😊
+# <span style="align:center;">Hi ! I'm Shaik😊</span>
 
-<img style="width: 50%;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/2f28d0c81cee8e069aae76a40096fb7a2ece3cee/COMPUTER%20JARGONS.png">
-![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/2f28d0c81cee8e069aae76a40096fb7a2ece3cee/COMPUTER%20JARGONS.png)
+<img style="width: 50%;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/1.png">
+<img style="width: 50%; align:right;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/2.png">
+<img style="width: 50%;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/3.png">
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/38fb42bbb4510b3ff92d75a5bff4793ffc7b6c08/Huzaifa%20Github%20Profile%20Gif.gif)
 
 
