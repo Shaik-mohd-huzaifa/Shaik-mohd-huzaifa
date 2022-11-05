@@ -1,8 +1,9 @@
-# <span style="align:center;">Hi ! I'm Shaik😊</span>
+![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/5c5cd863b6e5c8eca53a2bfc5bc2da2192caf860/HI%20!!%20I%20AM%20SHAIK.png)
 
-<img style="width: 50%;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/1.png">
-<img style="width: 50%; align:right;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/2.png">
-<img style="width: 50%;" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/27e8e8939577a3d658ed70decdd0efb15ebecafd/3.png">
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ebc35e56732553d9dc1e4adb6f22f8642f17b87b/Modified%20Github%20pro.png">
+
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/22dc1c8cfdcc614405bca6b1f3d49f4d58023bd9/Untitled%20design.png">
+
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/38fb42bbb4510b3ff92d75a5bff4793ffc7b6c08/Huzaifa%20Github%20Profile%20Gif.gif)
 
 
