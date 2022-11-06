@@ -33,7 +33,7 @@ Basically, javascript says the compiler which operator should be compiled first 
 <p width="100%">
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaik-mohd-huzaifa&show_icons=true&locale=en&layout=compact" alt="Shaik-mohd-huzaifa" /><!--
 --><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shaik-mohd-huzaifa&show_icons=true&locale=en" alt="Shaik-mohd-huzaifa" />
-<img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-pasha&" alt="faizan-pasha" /></p>
+<img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-mohd-huzaifa&" alt="Shaik-mohd-huzaifa" /></p>
 
   
 <!---
