@@ -9,7 +9,7 @@
 <a href="https://huzaifa.hashnode.dev/what-is-operator-precedence-in-javascript"><img width="60%" align="left" src="https://huzaifa.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1666921469156%2Fsjs8m0RXZ.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75">
 <h2><a href="https://huzaifa.hashnode.dev/what-is-operator-precedence-in-javascript">Learn About the Operator Precedence in Javascript</h2>
 <h4>Javascript has by default assigned some precedence (priority) to some operators which get executed according to their precedence
-Basically, javascript says the compiler which operator should be compiled first or in sequence. Depending on the precedence the direction of the reading element changes.</h4>
+Basically, javascript says the compiler which operator should be compiled first or in sequence. Depending on the precedence the direction of the reading elements changes.</h4>
 </a>
 
 
