@@ -35,7 +35,7 @@ Basically, javascript says the compiler which operator should be compiled first 
 --><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shaik-mohd-huzaifa&show_icons=true&locale=en" alt="Shaik-mohd-huzaifa" />
 <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-mohd-huzaifa&" alt="Shaik-mohd-huzaifa" /></p>
 
-  
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shaik-mohd-huzaifa&theme=dracula)
 <!---
 Shaik-mohd-huzaifa/Shaik-mohd-huzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
