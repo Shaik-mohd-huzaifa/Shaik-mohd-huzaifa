@@ -18,7 +18,7 @@ Basically, javascript says the compiler which operator should be compiled first 
 
 <img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/22dc1c8cfdcc614405bca6b1f3d49f4d58023bd9/Untitled%20design.png">
 
-[![@shaikmohdhuzaifa's Holopin board](https://holopin.me/shaikmohdhuzaifa)](https://holopin.io/@shaikmohdhuzaifa)
+[![@shaikmohdhuzaifa's Holopin Earned board](https://holopin.me/shaikmohdhuzaifa)](https://holopin.io/@shaikmohdhuzaifa)
 
 
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fa98731ef46e24653986a9719d46d248d4caca67/Connect%20with%20me.png)
