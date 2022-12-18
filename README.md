@@ -36,6 +36,8 @@ Basically, javascript says the compiler which operator should be compiled first 
 <img width="100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaik-mohd-huzaifa&" alt="Shaik-mohd-huzaifa" /></p>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shaik-mohd-huzaifa&theme=dracula)
+<br>
+![](https://komarev.com/ghpvc/?username=Shaik-mohd-huzaifa&color=dc143c)
 <!---
 Shaik-mohd-huzaifa/Shaik-mohd-huzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
