@@ -1,4 +1,4 @@
-![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/5c5cd863b6e5c8eca53a2bfc5bc2da2192caf860/HI%20!!%20I%20AM%20SHAIK.png)
+![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/87d553b3fb46dce02d3dda06bc95a618713affe9/HI%20!!%20I%20AM%20SHAIK.png)
 
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/5d5af94390b26bbcd9619a406d58fb91f41f7715/I%20Dare%20Say%20I%20Think.png)
 
