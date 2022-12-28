@@ -16,7 +16,7 @@ Basically, javascript says the compiler which operator should be compiled first 
 
 <img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ec882c9fa90b89f708a2fcc7b008fd55a6c40384/Modified%20Github%20pro.png">
 
-<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ec882c9fa90b89f708a2fcc7b008fd55a6c40384/Untitled%20design.png">
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/57fc2ed23beb0e742c866d9bcc439f9e950befad/Untitled%20design.png">
 
 [![@shaikmohdhuzaifa's Holopin Earned board](https://holopin.me/shaikmohdhuzaifa)](https://holopin.io/@shaikmohdhuzaifa)
 
