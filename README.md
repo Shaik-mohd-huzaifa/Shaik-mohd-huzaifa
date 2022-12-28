@@ -14,9 +14,9 @@ Basically, javascript says the compiler which operator should be compiled first 
 
 
 
-<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ebc35e56732553d9dc1e4adb6f22f8642f17b87b/Modified%20Github%20pro.png">
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ec882c9fa90b89f708a2fcc7b008fd55a6c40384/Modified%20Github%20pro.png">
 
-<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/22dc1c8cfdcc614405bca6b1f3d49f4d58023bd9/Untitled%20design.png">
+<img src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/ec882c9fa90b89f708a2fcc7b008fd55a6c40384/Untitled%20design.png">
 
 [![@shaikmohdhuzaifa's Holopin Earned board](https://holopin.me/shaikmohdhuzaifa)](https://holopin.io/@shaikmohdhuzaifa)
 
