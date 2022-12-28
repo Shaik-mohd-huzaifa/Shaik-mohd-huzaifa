@@ -1,6 +1,6 @@
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/87d553b3fb46dce02d3dda06bc95a618713affe9/HI%20!!%20I%20AM%20SHAIK.png)
 
-![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/5d5af94390b26bbcd9619a406d58fb91f41f7715/I%20Dare%20Say%20I%20Think.png)
+![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/d3966bab57806c7107638561a8cb2339b927cd1d/I%20Dare%20Say%20I%20Think.png)
 
 ![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/fb4f744400e3de30099c59702554af2cba3a92e9/Latest%20Blog%20Post.png)
 
