@@ -1,3 +1,6 @@
+
+
+
 <p align="center">
 <!--     <a href="https://adriangrimm.com">
         <img src="https://img.shields.io/badge/%20-adriangrimm.com-black?color=14171A&labelColor=1dbaba&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=" />
@@ -43,7 +46,15 @@ I am a Javascript Developer who Focuses on Web Frameworks & libraries like React
 
 </details>
 
-
+<details><summary><b>Skills, Tech and Tools I use</b></summary>
+<p align="center"><img src="https://skillicons.dev/icons?i=javascript,typescript&perline=2" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,jest&perline=3" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,graphql&perline=4" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,redux,nextjs,svelte,gatsby&perline=5" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind,materialui,styledcomponents,figma&perline=6" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,azure,heroku,supabase,netlify,sentry,postman&perline=7" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,docker,linux,powershell,bash,vite,babel,webpack,&perline=8" /></p>
+</details>
 
 
 
